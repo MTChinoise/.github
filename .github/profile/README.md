@@ -1,10 +1,18 @@
 <!-- Source : `.github/profile/README.md` — `profile/README.md` à la racine pointe ici pour le profil d’organisation GitHub. GitHub supprime les fonds CSS dans les README ; bandeaux SVG (#F5F3EF, #E8E4DD) pour retrouver l’ambiance crème du site. -->
+<!-- Visuels sans fond (logo RGBA, schéma SVG, parcours séance) : versions locales avec fond #F5F3EF — sources mariequintin.fr (avr. 2026). -->
 
 <div align="center">
 
-<img src="assets/cream-hero.svg" width="820" height="100" alt="" />
+<!-- <img src="assets/cream-hero.svg" width="820" height="100" alt="" /> -->
+<!-- Logo : bordure et coins arrondis intégrés au PNG (pas de CSS sur les &lt;td&gt; côté GitHub). -->
 
-<img src="https://www.mariequintin.fr/images/logo/mq.png" alt="Logo Marie Quintin — MTC & Reiki" width="140" />
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="right" valign="middle"><img src="assets/cream-flank.svg" width="320" height="117" alt="" /></td>
+    <td align="center" valign="middle"><img src="assets/mq-cream.png" alt="Logo Marie Quintin — MTC & Reiki" width="140" /></td>
+    <td align="left" valign="middle"><img src="assets/cream-flank.svg" width="320" height="117" alt="" /></td>
+  </tr>
+</table>
 
 # Médecine Traditionnelle Chinoise & Reiki — Guérande
 
@@ -38,9 +46,6 @@ Plutôt que de se limiter aux symptômes, la MTC cherche à comprendre le **terr
 | **Équilibre du Qi** | Au cœur de la MTC : une circulation fluide et équilibrée du Qi, pour une vitalité et un fonctionnement optimal. |
 | **Harmonie Yin–Yang** | La santé repose sur l’équilibre dynamique entre le Yin et le Yang ; l’objectif est de restaurer cette harmonie durablement. |
 
-<p align="center">
-  <img src="https://www.mariequintin.fr/images/body-diagram.svg" alt="Schéma — vision globale du corps en médecine chinoise" width="520" />
-</p>
 
 <p align="center"><img src="assets/cream-band.svg" width="820" height="16" alt="" /></p>
 
@@ -97,7 +102,7 @@ Chaque séance est un **temps d’écoute et d’observation**, personnalisé.
 3. **Proposition d’outils adaptés au bilan énergétique** — acupuncture, ventouses, moxibustion, Tuina, Xin Li, Qi Gong et méditation, diététique chinoise, conseils d’hygiène de vie.
 
 <p align="center">
-  <img src="https://www.mariequintin.fr/images/session_flow.svg" alt="Les étapes d’une séance — écoute, observation, accompagnement" width="640" />
+  <img src="assets/session-flow-cream.png" alt="Les étapes d’une séance — écoute, observation, accompagnement" width="640" />
 </p>
 
 <p align="center"><img src="assets/cream-band.svg" width="820" height="16" alt="" /></p>
