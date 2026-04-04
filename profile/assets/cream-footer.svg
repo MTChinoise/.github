@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 56" width="900" height="56" role="img" aria-label="">
-  <defs>
-    <linearGradient id="creamFoot" x1="0" y1="1" x2="0" y2="0">
-      <stop offset="0" stop-color="#F5F3EF"/>
-      <stop offset="1" stop-color="#E8E4DD"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="56" fill="url(#creamFoot)" rx="10"/>
-</svg>
