@@ -1,0 +1,3 @@
+[submodule "reservation"]
+	path = web/reservation
+	url = git@github.com:MTChinoise/reservation-webapp.git
