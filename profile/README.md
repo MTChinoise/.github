@@ -6,13 +6,8 @@
 <!-- <img src="assets/cream-hero.svg" width="820" height="100" alt="" /> -->
 <!-- Logo : bordure et coins arrondis intégrés au PNG (pas de CSS sur les &lt;td&gt; côté GitHub). -->
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="right" valign="middle"><img src="assets/cream-flank.svg" width="320" height="117" alt="" /></td>
-    <td align="center" valign="middle"><img src="assets/mq-cream.png" alt="Logo Marie Quintin — MTC & Reiki" width="140" /></td>
-    <td align="left" valign="middle"><img src="assets/cream-flank.svg" width="320" height="117" alt="" /></td>
-  </tr>
-</table>
+<!-- Bloc logo + flancs crème : un seul SVG (viewBox fixe) pour rester aligné à toute largeur d’écran. -->
+<img src="assets/logo-with-flanks.svg" alt="Logo Marie Quintin — MTC &amp; Reiki" width="788" />
 
 # Médecine Traditionnelle Chinoise & Reiki — Guérande
 
