@@ -137,6 +137,7 @@ Je me suis formée en **Médecine Traditionnelle Chinoise** au sein de l’écol
 ## Contact & rendez-vous
 
 - **Site** : [https://mariequintin.fr/](https://mariequintin.fr/)
+- **Contact** : [https://mariequintin.fr/contact](https://www.mariequintin.fr/contact)
 - **Réservation en ligne** : [https://reservation.mariequintin.fr/](https://reservation.mariequintin.fr/)
 
 <p align="center"><img src="assets/cream-footer.svg" width="820" height="56" alt="" /></p>
