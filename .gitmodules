@@ -1,3 +1,6 @@
 [submodule "reservation-webapp"]
 	path = web/reservation
-	url = git@github.com:MTChinoise/reservation-webapp.git
+	url = git@github.com:QNTINX/reservation-webapp.git
+[submodule "web/master"]
+	path = web/master
+	url = git@github.com:QNTINX/master-mtc-webapp.git
