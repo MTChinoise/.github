@@ -13,3 +13,6 @@
 [submodule "servers/Noiton/updater"]
 	path = servers/Noiton/updater
 	url = git@github.com:QNTINX/noiton-updater-service.git
+[submodule "desktop/C-Noiton"]
+	path = desktop/C-Noiton
+	url = git@github.com:MTChinoise/C-Noiton.git
