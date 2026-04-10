@@ -4,3 +4,12 @@
 [submodule "web/master"]
 	path = web/master
 	url = git@github.com:QNTINX/master-mtc-webapp.git
+[submodule "desktop/F-Noiton"]
+	path = desktop/F-Noiton
+	url = git@github.com:MTChinoise/F-Noiton.git
+[submodule "desktop/Noiton"]
+	path = desktop/Noiton
+	url = git@github.com:QNTINX/Noiton.git
+[submodule "servers/Noiton/updater"]
+	path = servers/Noiton/updater
+	url = git@github.com:QNTINX/noiton-updater-service.git
